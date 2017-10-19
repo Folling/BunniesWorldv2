@@ -1,0 +1,21 @@
+﻿'BunnyList.exe' (Win32): Loaded 'C:\Users\Folling\Documents\Visual Studio 2017\Projects\BunnyList\Debug\BunnyList.exe'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Symbols loaded.
+'BunnyList.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Symbols loaded.
+The thread 0xdd88 has exited with code 0 (0x0).
+The thread 0xeb78 has exited with code 0 (0x0).
+The thread 0xeaf4 has exited with code 0 (0x0).
+The thread 0xb3bc has exited with code -1073741510 (0xc000013a).
+The program '[58572] BunnyList.exe' has exited with code -1073741510 (0xc000013a).
